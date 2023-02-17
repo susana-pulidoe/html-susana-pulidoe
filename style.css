@@ -1,0 +1,18 @@
+h1 {
+  color: pink;
+  front-size: 100px;
+  text-align: center;
+  background-color: purple;
+}
+h2 {
+  color: black;
+  front-size: 100px;
+  text-align: center;
+  background-color: burlywood;
+}
+h3 {
+  color: blue;
+  front-size: 20px;
+  text-align: center;
+  background-color: (179, 152, 117);
+}
