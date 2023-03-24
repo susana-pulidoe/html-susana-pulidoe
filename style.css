@@ -1,46 +1,18 @@
-h1 {
-  color: pink;
-  front-size: 100px;
-  text-align: center;
-  background-color: purple;
-  text-shadow: ; 10px 10px black
-}
-h2 {
-  color: black;
-  front-size: 100px;
-  text-align: center;
-  background-color: burlywood;
-
-}
-h3 {
-  color: blue;
-  front-size: 20px;
-  text-align: center;
-  background-color: (179, 152, 117);
-}
-h4 {
-  color: blue;
-  front-size: 20px;
-  text-align: center;
-  background-color: (179, 152, 117);
+#imagen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(10%) drop-shadow(5px 5px rgb(0, 0, 0));
 }
 
-h5 {
-  color: blue;
-  front-size: 20px;
-  text-align: center;
-  background-color: (179, 152, 117);
+#imagen2 {
+  display: block;
+  filter: grayscale(10%) drop-shadow(5px 5px rgb(225, 0, 0));
 }
 
-h6 {
-  color: blue;
-  front-size: 20px;
-  text-align: center;
-  background-color: (179, 152, 117);
-}
-p {
-  color: blue;
-  front-size: 20px;
-  text-align: center;
-  background-color: (179, 152, 117);
+#imagen3 {
+  display: block;
+  margin-left: auto;
+  margin-right: 8;
+  filter: grayscale(10%) drop-shadow(5px 5px rgb(0, 45, 192));
 }
